@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://i.ibb.co/CHw6cv7/919494.jpg" alt="Profile Image" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
-  <h1>👋 Hi there, I'm El Hadiahmed!</h1>
-</div>
+# 👋 Hi there, I'm Ahmed Elhady!
 
 ## 🚀 About Me
 I'm a **Software Engineering Manager** with over **10 years** of extensive experience in software development. Currently, I lead as a **Software Engineering Manager and Lead at JUHI GmbH**, a leading provider of digital solutions for **healthcare and wellness**. 🏥💡💚
